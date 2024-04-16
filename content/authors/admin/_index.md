@@ -14,7 +14,7 @@ role: Assistant Professor of Environmental Science & Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Tsinghua University Shenzhen International Graduate School
+  - name: Tsinghua University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -82,4 +82,4 @@ user_groups:
   - Researchers
 ---
 
-Yuanchao Fan worked on quantifying the impact of solar geoengineering on terrestrial ecosystems, including forests and agriculture, and their biophysical and biogeochemical feedbacks to climate. This is part of the effort to bridge the gap between the communities of climate modeling and ecosystem studies towards better understanding the effects of solar geoengineering on nature and society. He has experience in studying vegetation dynamics and carbon, nutrient, water and energy cycles of ecosystems across temperate, tropical and the Arctic regions. He uses remote sensing, ecosystem modelling and Earth system modeling as main research tools plus model development for better monitoring and modelling terrestrial ecosystem processes and land-atmosphere interactions.
+Yuanchao Fan is an assistant professor of environmental science at the Shenzhen International Graduate School, Tsinghua University. He is worked on quantifying the impact of solar geoengineering on terrestrial ecosystems, including forests and agriculture, and their biophysical and biogeochemical feedbacks to climate. This is part of the effort to bridge the gap between the communities of climate modeling and ecosystem studies towards better understanding the effects of solar geoengineering on nature and society. He has experience in studying vegetation dynamics and carbon, nutrient, water and energy cycles of ecosystems across temperate, tropical and the Arctic regions. He leads the Bioclima group, which use remote sensing, ecosystem modelling and Earth system modeling as main research tools plus model development for better monitoring and modelling terrestrial ecosystem processes and land-atmosphere interactions.
