@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc in Hydrology
+role: Postdoc in Environmental Science & Hydrology at Bioclima Lab
 
 # Organizations/Affiliations
 organizations:

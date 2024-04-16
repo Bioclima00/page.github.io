@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2022-10-24
+date: 2024-04-16
 
 type: landing
 
@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        We look forward to hearing from you.
+        We look forward to hearing from you
       email: yuanchao.fan@sz.tsinghua.edu.cn
       phone: 180 2698 4060
       address:
