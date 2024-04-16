@@ -1,41 +1,45 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yuanchao Fan
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Yuanchao
+last_name: Fan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Environmental Science & Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Tsinghua University Shenzhen International Graduate School
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests lie in the field of climate change impact and climate mitigation. Focusing on issues in the Climate-Land-Ecosystem-Society nexus, I take an interdisciplinary approach to assessing the impact of climate change and climate intervention (including solar geoengineering) on agriculture, ecosystem, and human livability, as well as the feedback of land cover change to climate, to provide decision support for addressing climate change and building a carbon neutral society.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Earth System Modeling
+  - Vegetation Modeling
+  - Land-Atmosphere Interaction
+  - Remote Sensing & Geographic Information System
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Bioclimatology
+      institution: University of Göttingen
+      year: 2012.11 - 2016.06
+    - course: Ph.D. in Functional Ecology and Agricultural Sciences (joint degree)
+      institution: AgroParisTech
+      year: 2012.11 - 2016.06
+    - course: M.S. in Environmental and Natural Resource Sciences
+      institution: University of Nevada, Reno
+      year: 2008.07 - 2011.08
+    - course: B.Eng. in Remote Sensing Science and Technology
+      institution: Wuhan University
+      year: 2003.09 - 2008.06
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +48,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'yuanchao.fan@sz.tsinghua.edu.cn'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=0Nj_pzQdGbMC
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/yfa008
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Yuanchao-Fan
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-3462-1820
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +71,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'yuanchao.fan@sz.tsinghua.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -72,6 +82,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yuanchao Fan worked on quantifying the impact of solar geoengineering on terrestrial ecosystems, including forests and agriculture, and their biophysical and biogeochemical feedbacks to climate. This is part of the effort to bridge the gap between the communities of climate modeling and ecosystem studies towards better understanding the effects of solar geoengineering on nature and society. He has experience in studying vegetation dynamics and carbon, nutrient, water and energy cycles of ecosystems across temperate, tropical and the Arctic regions. He uses remote sensing, ecosystem modelling and Earth system modeling as main research tools plus model development for better monitoring and modelling terrestrial ecosystem processes and land-atmosphere interactions.
