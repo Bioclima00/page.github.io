@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Xiao Zhang
+title: Jiameng Xu
 
 # Full name (for SEO)
-first_name: Xiao
-last_name: Zhang
+first_name: Jiameng
+last_name: Xu
 
 # Username (this should match the folder name)
 authors:
-  - Xiao Zhang
+  - Jiameng Xu
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,25 +22,25 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include ecosystem-climate interactions, ecosystem modelling and ecohydrology.
 
 interests:
-  - Climate Change
-  - Water System Model
-  - Watershed Sustainable Development
-  - Water-Food-Environment Nexus
+  - Ecosystem-climate Interactions
+  - Ecosystem Modelling
+  - Forest Management 
+  - Ecohydrology
 
 education:
   courses:
-    - course: Ph.D. in Environmental Science(Successive Postgraduate and Doctoral Program)
-      institution: Wuhan University
-      year: 2016.09 - 2023.08
-    - course: Ph.D. Joint cultivation. Environmental Science
-      institution: SIAM Dept. Eawag
-      year: 2021.04 - 2022.03
-    - course: B.S. in Environmental Science
-      institution: Wuhan University
-      year: 2012.09 - 2016.06
+    - course: Ph.D. in Energy and Environmental Protection
+      institution: Tongji University
+      year: 2019.09 - 2024.02
+    - course: M.S. in Hydraulic Engineering
+      institution: Hohai University
+      year: 2017.09 - 2019.06
+    - course: B.S. in Water Engineering
+      institution: Hohai University
+      year: 2013.09 - 2017.06
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'xiaozhang_sdh@whu.edu.cn'
+    link: ''
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -72,7 +72,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'xiaozhang_sdh@whu.edu.cn'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -80,4 +80,4 @@ user_groups:
   - Researchers
 ---
 
-Xiao Zhang is currently a Postdoctoral Fellow in Hydrology at the Tsinghua Shenzhen International Graduate School, institude of Environment & Ecology. His research interests include climate change, water system model, watershed sustainable development, water-food-environment nexus. He join the i-Ecoclimatology group, use of process models such as CLM-5, WRF,etc., combined with deep learning algorithms to simulate regional and global water-food-environment interactions.
+Jiameng Xu is currently a Postdoctoral Fellow in Ecology at the Shenzhen International Graduate School, Tsinghua University. Her research focuses on ecosystem-climate interactions, ecosystem modeling, forest management, and ecohydrology. She is a member of the Bioclima Group, where she utilizes process-based ecosystem model such as LPJ-GUESS, integrated with deep learning algorithms, to simulate global terrestrial carbon sinks and quantify environmentally suitable thresholds for vegetation density.

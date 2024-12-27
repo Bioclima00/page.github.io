@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Xiao Zhang
+title: Zhaoyu Dong
 
 # Full name (for SEO)
-first_name: Xiao
-last_name: Zhang
+first_name: Zhaoyu
+last_name: Dong
 
 # Username (this should match the folder name)
 authors:
-  - Xiao Zhang
+  - Zhaoyu Dong
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoc in Environmental Science & Hydrology at i-Ecoclimatology Lab, Tsinghua University
+role: PhD student in Environmental Science & Engineering at i-Ecoclimatology Lab
 
 # Organizations/Affiliations
 organizations:
@@ -22,25 +22,25 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include climate change, soil-water interactions in the cryosphere, carbon-water-energy coupling, machine learning, and global climate modeling.
 
 interests:
   - Climate Change
-  - Water System Model
-  - Watershed Sustainable Development
-  - Water-Food-Environment Nexus
+  - Soil-Water Interactions
+  - Carbon-Water-Energy Coupling
+  - Machine Learning
 
 education:
   courses:
-    - course: Ph.D. in Environmental Science(Successive Postgraduate and Doctoral Program)
-      institution: Wuhan University
-      year: 2016.09 - 2023.08
-    - course: Ph.D. Joint cultivation. Environmental Science
-      institution: SIAM Dept. Eawag
-      year: 2021.04 - 2022.03
-    - course: B.S. in Environmental Science
-      institution: Wuhan University
-      year: 2012.09 - 2016.06
+    - course: PhD student in Environmental Science & Engineering
+      institution: Tsinghua SIGS
+      year: 2024.09 - Present
+    - course: M.E. in Hydrology and Water Resources
+      institution: China Institute of Water Resources and Hydropower Research
+      year: 2021.09 - 2024.06
+    - course: B.E. in Hydrology and Water Resources
+      institution: China Three Gorgers University
+      year: 2017.09 - 2021.06
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'xiaozhang_sdh@whu.edu.cn'
+    link: ''
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -72,7 +72,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'xiaozhang_sdh@whu.edu.cn'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -80,4 +80,4 @@ user_groups:
   - Researchers
 ---
 
-Xiao Zhang is currently a Postdoctoral Fellow in Hydrology at the Tsinghua Shenzhen International Graduate School, institude of Environment & Ecology. His research interests include climate change, water system model, watershed sustainable development, water-food-environment nexus. He join the i-Ecoclimatology group, use of process models such as CLM-5, WRF,etc., combined with deep learning algorithms to simulate regional and global water-food-environment interactions.
+Zhaoyu Dong is a PhD candidate in Environmental Science and Engineering at Tsinghua University Shenzhen International Graduate School. His research interests include climate change, soil-water relations in the cryosphere, carbon-water-energy coupling, machine learning, and global climate models. Currently, he is using CESM and satellite remote sensing data combined with a variety of deep learning methods to simulate the cryosphere carbon-water-energy coupling process.

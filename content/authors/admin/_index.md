@@ -10,7 +10,7 @@ last_name: Fan
 superuser: true
 
 # Role/position
-role: Assistant Professor of Environmental Science & Engineering
+role: Assistant Professor of Environmental Science & Engineering, leader of i-Ecoclimatology Lab
 
 # Organizations/Affiliations
 organizations:
@@ -82,4 +82,4 @@ user_groups:
   - Researchers
 ---
 
-Yuanchao Fan is an assistant professor of environmental science at the Shenzhen International Graduate School, Tsinghua University. He is worked on quantifying the impact of solar geoengineering on terrestrial ecosystems, including forests and agriculture, and their biophysical and biogeochemical feedbacks to climate. This is part of the effort to bridge the gap between the communities of climate modeling and ecosystem studies towards better understanding the effects of solar geoengineering on nature and society. He has experience in studying vegetation dynamics and carbon, nutrient, water and energy cycles of ecosystems across temperate, tropical and the Arctic regions. He leads the Bioclima group, which use remote sensing, ecosystem modelling and Earth system modeling as main research tools plus model development for better monitoring and modelling terrestrial ecosystem processes and land-atmosphere interactions.
+Dr. Yuanchao Fan joined Tsinghua SIGS in January 2023, after spending nearly 14 years in the USA and Europe. He specializes in climate change impact assessment and mitigation, applying principles of ecological climatology. His representative works include: 1. developing a human energy balance model to project the impact of extreme heat stress on human health, 2. evaluating the impacts of solar geoengineering and emissions reduction scenarios on agriculture using Earth system models, and 3. developing a CLM-Palm model to quantify the impact of rainforest to oil palm conversion on land-atmosphere carbon, water, and energy fluxes.
