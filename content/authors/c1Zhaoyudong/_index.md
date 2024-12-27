@@ -77,7 +77,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Grad Students
 ---
 
 Zhaoyu Dong is a PhD candidate in Environmental Science and Engineering at Tsinghua University Shenzhen International Graduate School. His research interests include climate change, soil-water relations in the cryosphere, carbon-water-energy coupling, machine learning, and global climate models. Currently, he is using CESM and satellite remote sensing data combined with a variety of deep learning methods to simulate the cryosphere carbon-water-energy coupling process.

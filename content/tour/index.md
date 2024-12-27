@@ -1,6 +1,6 @@
 ---
 title: Tour
-date: 2024-04-16
+date: 2024-12-28
 
 type: landing
 
@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Welcome to the Bioclima Lab
+      - title: Welcome to the i-Ecoclimatology Lab
         content: The Wonders of Geoscience
         align: center
         background:
@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Bioclima Lab
+      - title: i-Ecoclimatology Lab
         content: 'Carbon, water and energy exchange processes'
         align: right
         background:

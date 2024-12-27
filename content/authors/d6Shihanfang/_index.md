@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master's student in Environmental Science and Decarbonisation Policy at i-Ecoclimatology Lab
+role: Master's student in Environmental Science & Decarbonisation Policy at i-Ecoclimatology Lab
 
 # Organizations/Affiliations
 organizations:
@@ -74,7 +74,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Grad Students
 ---
 
-Fang Shihan is a Singaporean Master’s student at the Institute of Environment and Ecology (iEE) in Tsinghua Shenzhen International Graduate School. Prior to Tsinghua, she was a  journalist and podcaster covering climate innovation in Asia. Her research interests lie at the intersection between climate science, climate technology, and climate mitigation policy. Some focus areas include forest conservation policy, direct air carbon capture and storage, and carbon financing.
+Shihan Fang is a Singaporean Master’s student at the Institute of Environment and Ecology (iEE) in Tsinghua Shenzhen International Graduate School. Prior to Tsinghua, she was a  journalist and podcaster covering climate innovation in Asia. Her research interests lie at the intersection between climate science, climate technology, and climate mitigation policy. Some focus areas include forest conservation policy, direct air carbon capture and storage, and carbon financing.

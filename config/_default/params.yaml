@@ -55,7 +55,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Apr 16, 2024'
+  date_format: 'Dec 28, 2024'
   time_format: '9:27 PM'
   address_format: en-us
 

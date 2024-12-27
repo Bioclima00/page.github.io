@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2024-04-16
+date: 2024-12-28
 type: landing
 
 sections:
@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **Bioclima Lab** is dedicated to observing the Earth system from multiple perspectives
+        The **i-Ecoclimatology Lab** is dedicated to observing the Earth system from multiple perspectives
   
   - block: collection
     content:

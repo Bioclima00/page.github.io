@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc in Environmental Science & Hydrology at i-Ecoclimatology Lab, Tsinghua University
+role: Postdoc in Environmental Science & Hydrology at i-Ecoclimatology Lab
 
 # Organizations/Affiliations
 organizations:

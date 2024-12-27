@@ -75,7 +75,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Grad Students
 ---
 
 Mengyao Li is a PhD candidate in Environmental Science and Engineering at Tsinghua University Shenzhen International Graduate School. Her research interests include climate change, climate-ecosystems relations and global climate models. Currently, she is using CESM and satellite remote sensing data to evaluate the climate-ecosystems interactions process.

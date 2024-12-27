@@ -72,7 +72,7 @@ email: 'fjh23@mails.tsinghua.edu.cn'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Grad Students
 ---
 
-Fang Jiahao is currently a Master's student at the Shenzhen International Graduate School, Tsinghua University. His research focus is on climate change, with a particular emphasis on heatwaves.
+Jiahao Fang is currently a Master's student at the Shenzhen International Graduate School, Tsinghua University. His research focus is on climate change, with a particular emphasis on heatwaves.
