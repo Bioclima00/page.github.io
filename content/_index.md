@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Bioclima Lab
+        i-Ecoclimatology Lab
       image:
         filename: welcome.jpg
       text: |
