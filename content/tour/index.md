@@ -19,7 +19,7 @@ sections:
         align: center
         background:
           image:
-            filename: teamstruc.jpg
+            filename: coders.jpg
             filters:
               brightness: 1
           position: right
@@ -33,7 +33,7 @@ sections:
         align: left
         background:
           image:
-            filename: recruit.jpg
+            filename: teamstruc.jpg
             filters:
               brightness: 1
           position: center
@@ -44,7 +44,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: recruit.jpg
             filters:
               brightness: 1
           position: center
