@@ -19,7 +19,7 @@ role: Assistant Professor of Environmental Science & Engineering, PI of i-Ecocli
 # Organizations/Affiliations
 organizations:
   - name: Tsinghua University
-    url: ''
+    url: 'https://www.sigs.tsinghua.edu.cn/fyc_en/main.htm'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie in the field of climate change impact and climate mitigation. Focusing on issues in the Climate-Land-Ecosystem-Society nexus, I take an interdisciplinary approach to assessing the impact of climate change and climate intervention (including solar geoengineering) on agriculture, ecosystem, and human livability, as well as the feedback of land cover change to climate, to provide decision support for addressing climate change and building a carbon neutral society.
@@ -29,6 +29,21 @@ interests:
   - Vegetation Modeling
   - Land-Atmosphere Interaction
   - Remote Sensing & Geographic Information System
+
+professional experiences:
+  courses:
+    - course: Assistant Professor (Institute of Environement and Ecology)
+      institution: Tsinghua University
+      year: 2023.01 - Present
+    - course: Research Fellow (Center for the Environment)
+      institution: Harvard University
+      year: 2019.10 - 2022.10
+    - course: Postdoctoral Researcher in Climate
+      institution: NORCE Norwegian Research Centre AS
+      year: 2016.09 - 2019.08
+    - course: Research Assistant (Smithsonian Conservation Biology Institute)
+      institution: Smithsonian Institution
+      year: 2011.09 - 2012.10
 
 education:
   courses:
