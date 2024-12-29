@@ -26,8 +26,8 @@ bio: My research interests include climate change and Energy budget.
 
 interests:
   - Climate Change
-  - Energy budget
-  -	Solar radiation
+  - Energy Budget
+  - Solar Radiation
 
 education:
   courses:
