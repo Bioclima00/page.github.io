@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Zhaoyu Dong
+title: Mei Du
 
 # Full name (for SEO)
-first_name: Zhaoyu
-last_name: Dong
+first_name: Mei
+last_name: Du
 
 # Username (this should match the folder name)
 authors:
-  - Zhaoyu Dong
+  - Mei Du
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student in Environmental Science & Engineering at i-Ecoclimatology Lab
+role: PhD candidate in Environmental Science & Engineering at i-Ecoclimatology Lab
 
 # Organizations/Affiliations
 organizations:
@@ -22,25 +22,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include climate change, soil-water interactions in the cryosphere, carbon-water-energy coupling, machine learning, and global climate modeling.
+bio: My research interests include Urban Heat Islands , Nature-based Solutions and Climate Mitigation Strategies.
 
 interests:
-  - Climate Change
-  - Soil-Water Interactions
-  - Carbon-Water-Energy Coupling
-  - Machine Learning
+  - Urban Heat Islands
+  - Nature-based Solutions 
+  - Climate Mitigation Strategies
 
 education:
   courses:
     - course: PhD student in Environmental Science & Engineering
       institution: Tsinghua SIGS
-      year: 2024.09 - Present
-    - course: M.E. in Hydrology and Water Resources
-      institution: China Institute of Water Resources and Hydropower Research
-      year: 2021.09 - 2024.06
-    - course: B.E. in Hydrology and Water Resources
-      institution: China Three Gorgers University
-      year: 2017.09 - 2021.06
+      year: 2023.09 - Present
+    - course: M.S. in Resources and Environmental Engineering
+      institution: University of Chinese Academy of Sciences / Chinese Academy of Sciences, Institute of Urban Environment
+      year: 2020.09 - 2023.06
+    - course: B.S. in Landscape Architecture
+      institution: Hunan Agricultural University
+      year: 2016.09 - 2020.06
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -80,4 +79,4 @@ user_groups:
   - Grad Students
 ---
 
-Zhaoyu Dong is a PhD candidate in Environmental Science and Engineering at Tsinghua University Shenzhen International Graduate School. His research interests include climate change, soil-water relations in the cryosphere, carbon-water-energy coupling, machine learning, and global climate models. Currently, he is using CESM and satellite remote sensing data combined with a variety of deep learning methods to simulate the cryosphere carbon-water-energy coupling process.
+Mei Du is currently a PhD student in the field of urban thermal environment at the Shenzhen International Graduate School, Tsinghua University. Her research interests encompass urban heat islands, nature-based solutions, and climate mitigation strategies.

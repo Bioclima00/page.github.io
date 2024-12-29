@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Zhaoyu Dong
+title: Sakiba Nabi
 
 # Full name (for SEO)
-first_name: Zhaoyu
-last_name: Dong
+first_name: Sakiba
+last_name: Nabi
 
 # Username (this should match the folder name)
 authors:
-  - Zhaoyu Dong
+  - Sakiba Nabi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student in Environmental Science & Engineering at i-Ecoclimatology Lab
+role: Postdoc in Environmental Science & Hydrology at i-Ecoclimatology Lab
 
 # Organizations/Affiliations
 organizations:
@@ -22,25 +22,25 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include climate change, soil-water interactions in the cryosphere, carbon-water-energy coupling, machine learning, and global climate modeling.
+bio: My research interests include Hydrological Modeling, compound Extreme Events Analysis.
 
 interests:
-  - Climate Change
-  - Soil-Water Interactions
-  - Carbon-Water-Energy Coupling
-  - Machine Learning
+  -  Hydrological Modeling
+  - Bayesian Flood Frequency Analysis
+  - Compound Extreme Events Analysis
+  - Ecohydrology
 
 education:
   courses:
-    - course: PhD student in Environmental Science & Engineering
-      institution: Tsinghua SIGS
-      year: 2024.09 - Present
-    - course: M.E. in Hydrology and Water Resources
-      institution: China Institute of Water Resources and Hydropower Research
-      year: 2021.09 - 2024.06
-    - course: B.E. in Hydrology and Water Resources
-      institution: China Three Gorgers University
-      year: 2017.09 - 2021.06
+    - course: Ph.D. in Civil Engineering with a specialization in Hydrology
+      institution: National Institute of Technology, Srinagar
+      year: 2017 - 2022
+    - course: M.Tech in Water Resources Engineering
+      institution: National Institute of Technology, Srinagar
+      year: 2015 - 2017
+    - course: B.Tech in Agricultural Engineering
+      institution: Sher-e-Kashmir University of Agricultural Sciences and Technology
+      year: 2013 - 2015
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -50,6 +50,7 @@ social:
   # - icon: envelope
   #   icon_pack: fas
   #   link: ''
+
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -77,7 +78,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Researchers
 ---
 
-Zhaoyu Dong is a PhD candidate in Environmental Science and Engineering at Tsinghua University Shenzhen International Graduate School. His research interests include climate change, soil-water relations in the cryosphere, carbon-water-energy coupling, machine learning, and global climate models. Currently, he is using CESM and satellite remote sensing data combined with a variety of deep learning methods to simulate the cryosphere carbon-water-energy coupling process.
+Sakiba Nabi is a Postdoctoral Fellow in Hydrology and Climate Science at the Tsinghua SIGS. Her expertise lies in hydrology and climate-driven flood extremes, with a research portfolio encompassing spatio-temporal variability of precipitation and temperature, hydrological modeling, Bayesian flood frequency analysis, and the analysis of compound extreme events. Currently, her work focuses on the impacts of extreme weather events on the Asian Water Tower and their influence on regional monsoon dynamics. Additionally, she investigates the effects of climate-induced floods and droughts on agricultural productivity, aiming to understand the broader implications of a changing climate on water resources and food security.

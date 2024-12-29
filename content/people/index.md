@@ -23,5 +23,5 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
-      show_experience: true
+      # show_experience: true
 ---

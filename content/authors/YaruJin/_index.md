@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Zhaoyu Dong
+title: Yaru Jin
 
 # Full name (for SEO)
-first_name: Zhaoyu
-last_name: Dong
+first_name: Yaru
+last_name: Jin
 
 # Username (this should match the folder name)
 authors:
-  - Zhaoyu Dong
+  - Yaru Jin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student in Environmental Science & Engineering at i-Ecoclimatology Lab
+role: Master's student in Resource and Environment at i-Ecoclimatology Lab
 
 # Organizations/Affiliations
 organizations:
@@ -22,34 +22,29 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include climate change, soil-water interactions in the cryosphere, carbon-water-energy coupling, machine learning, and global climate modeling.
+bio: My research interests include climate change and global climate modeling.
 
 interests:
   - Climate Change
-  - Soil-Water Interactions
-  - Carbon-Water-Energy Coupling
-  - Machine Learning
+  - Climate Modeling
 
 education:
   courses:
-    - course: PhD student in Environmental Science & Engineering
+    - course: Master's student in Resource and Environment
       institution: Tsinghua SIGS
       year: 2024.09 - Present
-    - course: M.E. in Hydrology and Water Resources
-      institution: China Institute of Water Resources and Hydropower Research
-      year: 2021.09 - 2024.06
-    - course: B.E. in Hydrology and Water Resources
-      institution: China Three Gorgers University
-      year: 2017.09 - 2021.06
+    - course: B.S. in Environmental Sciences
+      institution: Wuhan University
+      year: 2020.09 - 2024.06
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: ''
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'fjh23@mails.tsinghua.edu.cn'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -72,7 +67,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ''
+# email: 'fjh23@mails.tsinghua.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -80,4 +75,4 @@ user_groups:
   - Grad Students
 ---
 
-Zhaoyu Dong is a PhD candidate in Environmental Science and Engineering at Tsinghua University Shenzhen International Graduate School. His research interests include climate change, soil-water relations in the cryosphere, carbon-water-energy coupling, machine learning, and global climate models. Currently, he is using CESM and satellite remote sensing data combined with a variety of deep learning methods to simulate the cryosphere carbon-water-energy coupling process.
+Yaru Jin is a master student in the Institute of Environment and Ecology, under the guidance of Pro. Fan. Her research interests is in studying climate change with models. Now she is focus on evaluating the land use feasibility of BECCS in different SSP scenario.

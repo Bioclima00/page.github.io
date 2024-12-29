@@ -30,20 +30,20 @@ interests:
   - Land-Atmosphere Interaction
   - Remote Sensing & Geographic Information System
 
-experience:
-  courses:
-    - course: Assistant Professor (Institute of Environement and Ecology)
-      institution: Tsinghua University
-      year: 2023.01 - Present
-    - course: Research Fellow (Center for the Environment)
-      institution: Harvard University
-      year: 2019.10 - 2022.10
-    - course: Postdoctoral Researcher in Climate
-      institution: NORCE Norwegian Research Centre AS
-      year: 2016.09 - 2019.08
-    - course: Research Assistant (Smithsonian Conservation Biology Institute)
-      institution: Smithsonian Institution
-      year: 2011.09 - 2012.10
+# experience:
+#   courses:
+#     - course: Assistant Professor (Institute of Environement and Ecology)
+#       institution: Tsinghua University
+#       year: 2023.01 - Present
+#     - course: Research Fellow (Center for the Environment)
+#       institution: Harvard University
+#       year: 2019.10 - 2022.10
+#     - course: Postdoctoral Researcher in Climate
+#       institution: NORCE Norwegian Research Centre AS
+#       year: 2016.09 - 2019.08
+#     - course: Research Assistant (Smithsonian Conservation Biology Institute)
+#       institution: Smithsonian Institution
+#       year: 2011.09 - 2012.10
 
 education:
   courses:
