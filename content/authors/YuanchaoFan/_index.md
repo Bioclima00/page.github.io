@@ -11,7 +11,7 @@ authors:
   - Yuanchao Fan
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Assistant Professor of Environmental Science & Engineering, PI of i-Ecoclimatology Lab
