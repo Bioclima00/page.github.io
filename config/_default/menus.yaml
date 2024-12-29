@@ -11,10 +11,10 @@ main:
   #   url: post
   #   weight: 20
   - name: People
-    url: authors
+    url: people
     weight: 10
   - name: Research
-    url: post
+    url: tour
     weight: 20
   - name: Publications
     url: publication
