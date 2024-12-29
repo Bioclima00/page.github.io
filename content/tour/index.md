@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'
       - title: i-Ecoclimatology Lab
-        content: 'Carbon, water and energy exchange processes'
+        content: 'Coupled carbon-water-energy processes in ecological-climatological systems'
         align: right
         background:
           image:
