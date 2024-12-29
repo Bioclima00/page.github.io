@@ -11,14 +11,14 @@ sections:
       align: center
       subtitle: ''
       text:
+      text_color_light: true
     design:
       columns: '1'
       background:
         image: 
           filename: team1.jpg
           filters:
-            brightness: 0.5
-            # transparency: 0.5
+            brightness: 1
           parallax: false
           position: center
           size: cover

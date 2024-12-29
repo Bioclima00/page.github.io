@@ -58,7 +58,7 @@ sections:
         image: 
           filename: contact1.jpg
           filters:
-            brightness: 0.8
+            brightness: 1
           parallax: false
           position: center
           size: cover
