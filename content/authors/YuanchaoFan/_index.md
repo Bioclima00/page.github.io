@@ -45,20 +45,20 @@ experience:
       institution: Smithsonian Institution
       year: 2011.09 - 2012.10
 
-# education:
-#   courses:
-#     - course: Ph.D. in Bioclimatology
-#       institution: University of Göttingen
-#       year: 2012.11 - 2016.06
-#     - course: Ph.D. in Functional Ecology and Agricultural Sciences (joint degree)
-#       institution: AgroParisTech
-#       year: 2012.11 - 2016.06
-#     - course: M.S. in Environmental and Natural Resource Sciences
-#       institution: University of Nevada, Reno
-#       year: 2008.07 - 2011.08
-#     - course: B.Eng. in Remote Sensing Science and Technology
-#       institution: Wuhan University
-#       year: 2003.09 - 2008.06
+education:
+  courses:
+    - course: Ph.D. in Bioclimatology
+      institution: University of Göttingen
+      year: 2012.11 - 2016.06
+    - course: Ph.D. in Functional Ecology and Agricultural Sciences (joint degree)
+      institution: AgroParisTech
+      year: 2012.11 - 2016.06
+    - course: M.S. in Environmental and Natural Resource Sciences
+      institution: University of Nevada, Reno
+      year: 2008.07 - 2011.08
+    - course: B.Eng. in Remote Sensing Science and Technology
+      institution: Wuhan University
+      year: 2003.09 - 2008.06
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
