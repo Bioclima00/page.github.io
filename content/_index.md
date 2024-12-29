@@ -11,10 +11,10 @@ sections:
         Welcome to the i-Ecoclimatology Lab
       image:
         filename: team1.jpg
-      # text: |
-      #   <br>
+      text: |
+        <br>
         
-      #   # The **i-Ecoclimatology Lab** is dedicated to observing the Earth system from multiple perspectives
+        # The **i-Ecoclimatology Lab** is dedicated to observing the Earth system from multiple perspectives
   
   - block: collection
     content:
