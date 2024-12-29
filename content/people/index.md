@@ -8,12 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        i-Ecoclimatology Team
+        i-Ecoclimatology Lab
       image:
-        filename: welcome.jpg
+        filename: team1.jpg
       text: |
         <br>
-        The **i-Ecoclimatology Lab** is dedicated to observing the Earth system from multiple perspectives
+        
+         **Meet the team** 
 
   # - block: slider
   #   content:

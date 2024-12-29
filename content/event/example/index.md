@@ -1,7 +1,7 @@
 ---
-title: Example Event
+title: Deadly heat coming for healthy people — Harvard research
 
-event: Wowchemy Conference
+event: new arcticle
 event_url: https://example.org
 
 location: Wowchemy HQ

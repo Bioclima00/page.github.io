@@ -20,7 +20,8 @@ main:
     url: publication
     weight: 30
   - name: Events
-    url: event
+    # url: event
+    url: post
     weight: 40  
   - name: Contact
     url: contact
