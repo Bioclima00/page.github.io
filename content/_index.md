@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        # The **i-Ecoclimatology Lab** is dedicated to observing the Earth system from multiple perspectives
+        The **i-Ecoclimatology Lab** is dedicated to studying the Earth system from multiple perspectives and providing climate change mitigation strategies
   
   - block: collection
     content:
