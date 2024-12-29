@@ -5,6 +5,8 @@ date: 2024-12-12
 
 Venturing outdoors during heatwaves may become deadly for millions of people in a world only slightly warmer than today’s, according to new research that considers the effect of solar radiation, wind and other factors on the human body.
 
+<!--more-->
+
 The Harvard University researchers look at “uncompensable heat” — heat stress so severe that even a fit, healthy, hydrated person cannot tolerate it for long. Previous studies largely ignored the effects of sunlight and radiation on heat stress, assuming people can move indoors to avoid heat. But many people don’t have that luxury. And conditions indoors, where airflow is often reduced, can be even more dangerous, they find.
 
 The research, published Dec. 12 in the journal Communications Earth & Environment, is authored by Yuanchao Fan, a 2019-2022 fellow at Harvard University Center for the Environment who is now an assistant professor at Tsinghua University Shenzhen International Graduate School, and Kaighin McColl, assistant professor of Earth and planetary sciences and of environmental science and engineering at Harvard.
@@ -19,8 +21,6 @@ In a world 2 degrees Celsius warmer than the pre-industrial average, they find t
 
 But the hazards extend into the shade. Fan and McColl’s model projects the risk of uncompensable heat stress to a person standing under a tree is more than six times higher than estimated by previous studies that ignore radiation. Indoor spaces can also be risky due to reduced airflow.
 
-“Climate researchers often rely on heat-stress metrics that focus on weather conditions, while medical researchers study individual responses to heat. Our model bridges this gap, combining both approaches to better assess risks under any climate condition,” said Fan..
-
-<!--more-->
+“Climate researchers often rely on heat-stress metrics that focus on weather conditions, while medical researchers study individual responses to heat. Our model bridges this gap, combining both approaches to better assess risks under any climate condition,” said Fan.
 
 <!-- Sub-Sentences. -->
