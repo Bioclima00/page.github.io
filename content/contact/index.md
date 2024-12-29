@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        If you are interested in joining this highly interdisciplinary and international group, please contact Dr. Fan directly at yuanchao.fan@sz.tsinghua.edu.cn
+        If you are interested in joining this highly interdisciplinary and international group, please contact Dr. Fan directly
       email: yuanchao.fan@sz.tsinghua.edu.cn
       phone: 180 2698 4060
       address:
