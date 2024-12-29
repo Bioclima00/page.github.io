@@ -13,7 +13,6 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        
         The **i-Ecoclimatology Lab** is dedicated to observing the Earth system from multiple perspectives
 
   - block: slider
@@ -23,12 +22,12 @@ sections:
         content: 
         align: center
         background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.8
-          position: 
-          color: '#666'
+        image:
+          filename: coders.jpg
+          filters:
+            brightness: 0.8
+        position: right
+        color: '#666'
 
   - block: people
     content:
