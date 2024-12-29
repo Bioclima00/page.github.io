@@ -44,7 +44,7 @@ sections:
         align: right
         background:
           image:
-            filename: coders.jpg
+            filename: rec.jpg
             filters:
               brightness: 1
           position: center
