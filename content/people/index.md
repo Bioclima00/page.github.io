@@ -7,8 +7,8 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: |
-        Meet the i-Ecoclimatology team
+      title: Meet the i-Ecoclimatology team
+      align: center
       subtitle: ''
       text:
     design:
@@ -17,7 +17,8 @@ sections:
         image: 
           filename: team1.jpg
           filters:
-            brightness: 0.8
+            brightness: 0.5
+            # transparency: 0.5
           parallax: false
           position: center
           size: cover
