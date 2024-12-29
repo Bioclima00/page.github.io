@@ -79,7 +79,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Principal Investigator
 ---
 
 Dr. Yuanchao Fan joined Tsinghua SIGS in January 2023, after spending nearly 14 years in the USA and Europe. He specializes in climate change impact assessment and mitigation, applying principles of ecological climatology. His representative works include: 1. developing a human energy balance model to project the impact of extreme heat stress on human health, 2. evaluating the impacts of solar geoengineering and emissions reduction scenarios on agriculture using Earth system models, and 3. developing a CLM-Palm model to quantify the impact of rainforest to oil palm conversion on land-atmosphere carbon, water, and energy fluxes.
