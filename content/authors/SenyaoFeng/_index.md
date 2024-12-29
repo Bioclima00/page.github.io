@@ -77,7 +77,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Administration
+  - Support
 ---
 
 Senyao Feng is a research assistant in the i-Ecoclimatology Lab at the Tsinghua SIGS. His research focuses on the land atmosphere control process, and under the supervision of Prof. Fan Yuanchao, he is exploring the satellite topographic correction, land atmosphere control process and the impacts of climate change on ecosystem processes by using advanced modeling, satellite remote sensing and GIS technologies.
