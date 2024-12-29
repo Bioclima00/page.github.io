@@ -8,34 +8,45 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Welcome to the i-Ecoclimatology Lab
-        content: The Wonders of Ecology Geoscience
+      - title: Research Directions
+        content: 'Climate change impacts
+                  Climate change mitigation and intervention 
+                  Energy, water, carbon cycles
+                  Earth system modelling
+                  Remote sensing
+                  Physically constrained artificial intelligence'
+
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: teamstruc.jpg
             filters:
-              brightness: 0.7
+              brightness: 1
           position: right
           color: '#666'
-      - title: The Earth System
-        content: 'Climate-land-ecology-society nexus'
+      - title: Lab Aims/Research Applications
+        content: 'Led by Dr. Fan, the Ecoclimatology Lab (Eco Climate for short) is at the forefront of climate and ecosystem research. The lab’s mission is to:
+                  Develop cutting-edge methodologies and models to understand land-atmosphere interactions
+                  Investigate material and energy flows that drive climate and ecosystem dynamics
+                  Advance climate impact assessment on ecosystem and human health
+                  Evaluate innovative solutions for climate change mitigation, including natural or technology-based solutions'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: recruit.jpg
             filters:
-              brightness: 0.7
+              brightness: 1
           position: center
           color: '#555'
-      - title: i & Ecoclimatology
-        content: 'Coupled carbon-water-energy processes in ecological-climatological systems'
+      - title: Recruiting
+        content: 'The lab has a dynamic, collaborative environment with 15 researchers from four nations. It is seeking passionate Master's and PhD candidates with backgrounds 
+                  in -- Ecology, Geoscience, Atmospheric Science, Physics, Mathematics, Computer Science. Ideal candidates will be self-motivated and eager to contribute to groundbreaking climate research'
         align: right
         background:
           image:
             filename: welcome.jpg
             filters:
-              brightness: 0.5
+              brightness: 1
           position: center
           color: '#333'
         link:
