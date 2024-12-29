@@ -6,6 +6,10 @@ title: Yuanchao Fan
 first_name: Yuanchao
 last_name: Fan
 
+# Username (this should match the folder name)
+authors:
+  - Yuanchao Fan
+
 # Is this the primary user of the site?
 superuser: true
 
