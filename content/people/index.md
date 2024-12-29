@@ -8,13 +8,27 @@ sections:
   - block: hero
     content:
       title: |
-        Meet the i-Ecoclimatology Team
+        i-Ecoclimatology Team
       image:
         filename: welcome.jpg
       text: |
         <br>
         
         The **i-Ecoclimatology Lab** is dedicated to observing the Earth system from multiple perspectives
+
+  - block: slider
+    content:
+      slides:
+      - title: Meet the i-Ecoclimatology Team
+        content: 
+        align: center
+        background:
+          image:
+            filename: coders.jpg
+            filters:
+              brightness: 0.8
+          position: 
+          color: '#666'
 
   - block: people
     content:
