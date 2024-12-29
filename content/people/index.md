@@ -5,16 +5,37 @@ date: 2024-12-28
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
       title: |
-        i-Ecoclimatology Lab
-      image:
-        filename: team1.jpg
-      text: |
-        <br>
+        Meet the i-Ecoclimatology team
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: team1.jpg
+          filters:
+            brightness: 0.8
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+
+  # - block: hero
+  #   content:
+  #     title: |
+  #       Meet the team
+  #     image:
+  #       filename: team1.jpg
+  #     text: |
+  #       <br>
         
-         **Meet the team** 
+  #        **i-Ecoclimatology Members** 
 
   # - block: slider
   #   content:

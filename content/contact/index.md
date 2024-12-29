@@ -22,7 +22,7 @@ sections:
       coordinates:
         latitude: '22.5957885'
         longitude: '113.9654182'
-      directions: University Town, Tsinghua SIGS, Building F, 304
+      directions: University Town, Tsinghua SIGS, Building F, 304 & 415
       # office_hours:
       #   - 'Monday 08:00 to 18:00'
       #   - 'Friday 09:00 to 19:00'
@@ -56,9 +56,9 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: contact1.jpg
           filters:
-            brightness: 1
+            brightness: 0.8
           parallax: false
           position: center
           size: cover
