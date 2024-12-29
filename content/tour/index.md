@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Welcome to the i-Ecoclimatology Lab
-        content: The Wonders of Geoscience
+        content: The Wonders of Ecology Geoscience
         align: center
         background:
           image:
@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Earth System...
+      - title: The Earth System
         content: 'Climate-land-ecology-society nexus'
         align: left
         background:
@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: i-Ecoclimatology Lab
+      - title: i & Ecoclimatology
         content: 'Coupled carbon-water-energy processes in ecological-climatological systems'
         align: right
         background:
