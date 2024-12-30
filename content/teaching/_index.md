@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Teaching
 
 # Listing view
 view: compact
