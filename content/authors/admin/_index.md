@@ -6,20 +6,16 @@ title: Yuanchao Fan
 first_name: Yuanchao
 last_name: Fan
 
-# # Username (this should match the folder name)
-# authors:
-#   - Yuanchao Fan
-
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Assistant Professor of Environmental Science & Engineering, PI of i-Ecoclimatology Lab
+role: Assistant Professor of Environmental Science & Engineering,PI of i-Ecoclimatology Lab
 
 # Organizations/Affiliations
 organizations:
   - name: Faculty Profile at Tsinghua SIGS
-    url: 'https://www.sigs.tsinghua.edu.cn/fyc_en/main.htm'
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie in the field of climate change impact and climate mitigation. Focusing on issues in the Climate-Land-Ecosystem-Society nexus, I take an interdisciplinary approach to assessing the impact of climate change and climate intervention (including solar geoengineering) on agriculture, ecosystem, and human livability, as well as the feedback of land cover change to climate, to provide decision support for addressing climate change and building a carbon neutral society.
