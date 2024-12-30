@@ -1,6 +1,8 @@
 ---
 title: Model shows solar geoengineering may be surprisingly effective in alleviating impacts of global warming on crops -- Research offers better understanding of solar geoengineering’s effect on agriculture
-date: May 20, 2021
+date: 2021-05-20
+image:
+  focal_point: 'top'
 ---
 
 Solar geoengineering — putting aerosols into the atmosphere to reflect sunlight and reduce global warming — is not a fix-all for climate change but it could be one of several tools to manage climate risks. A growing body of research has explored the ability of solar geoengineering to reduce physical climate changes. But much less is known about how solar geoengineering could affect the ecosystem and, particularly, agriculture.
@@ -33,4 +35,3 @@ The research was supported in part by Harvard University’s Solar Geoengineerin
 
 TOPICS: Climate, Geoengineering
 https://www.nature.com/articles/s43016-021-00278-w
-<!-- Sub-Sentences. -->

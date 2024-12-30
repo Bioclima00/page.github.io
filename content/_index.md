@@ -34,7 +34,20 @@ sections:
     design:
       view: card
       columns: '1'
-  
+
+  - block: collection
+    content:
+      title: Latest Publication
+      text: ""
+      count: 1
+      filters:
+        folders:
+          - publication
+        publication_type: 'article'
+    design:
+      view: citation
+      columns: '1'
+
   - block: markdown
     content:
       title:

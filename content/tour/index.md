@@ -18,7 +18,11 @@ sections:
       #   - Physically constrained artificial intelligence
       - title: Lab Aims/Research Applications
         content: 
-            Led by Dr. Fan, the Ecoclimatology Lab (Eco Climate for short) is at the forefront of climate and ecosystem research. The lab’s mission is to · Develop cutting-edge methodologies and models to understand land-atmosphere interactions · Investigate material and energy flows that drive climate and ecosystem dynamics · Advance climate impact assessment on ecosystem and human health · Evaluate innovative solutions for climate change mitigation, including natural or technology-based solutions
+            'Led by Dr. Fan, the Ecoclimatology Lab (Eco Climate for short) is at the forefront of climate and ecosystem research. The lab’s mission is to 
+            · Develop cutting-edge methodologies and models to understand land-atmosphere interactions 
+            · Investigate material and energy flows that drive climate and ecosystem dynamics 
+            · Advance climate impact assessment on ecosystem and human health 
+            · Evaluate innovative solutions for climate change mitigation, including natural or technology-based solutions'
         align: left
         background:
           image:
@@ -26,7 +30,7 @@ sections:
             filters:
               brightness: 0.5
           position: right
-          color: '#666'
+          color: '#ffffff'
       - title: Research Directions
         content:  
         # Led by Dr. Fan, the Ecoclimatology Lab (Eco Climate for short) is at the forefront of climate and ecosystem research. The lab’s mission is to 
@@ -41,10 +45,14 @@ sections:
             filters:
               brightness: 1
           position: center
-          color: '#555'
+          color: '#ffffff'
       - title: Recruiting
         content:
-            The lab has a dynamic, collaborative environment with 15 researchers from four nations. It is seeking passionate Master's and PhD candidates with backgrounds in Ecology, Geoscience, Atmospheric Science, Physics, Mathematics, Computer Science. Ideal candidates will be self-motivated and eager to contribute to groundbreaking climate research
+            'The lab has a dynamic, collaborative environment with 15 researchers from four nations. 
+            
+            It is seeking passionate Master's and PhD candidates with backgrounds in Ecology, Geoscience, Atmospheric Science, Physics, Mathematics, Computer Science. 
+            
+            Ideal candidates will be self-motivated and eager to contribute to groundbreaking climate research'
         align: right
         background:
           image:
@@ -52,7 +60,7 @@ sections:
             filters:
               brightness: 0.3
           position: center
-          color: '#333'
+          color: '#ffffff'
         link:
           icon: graduation-cap
           icon_pack: fas

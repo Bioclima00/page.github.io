@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night:
-  theme_default: light
+  # theme_default: light
   font: native
   font_size: L
 
@@ -56,7 +56,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Dec 28, 2024'
+  date_format: 'Dec 2, 2024'
   time_format: '9:27 PM'
   address_format: en-us
 
@@ -92,7 +92,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: i-Ecoclimatology
     algolia:
       app_id: ''
       api_key: ''

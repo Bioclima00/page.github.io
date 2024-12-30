@@ -6,12 +6,12 @@ title: Yuanchao Fan
 first_name: Yuanchao
 last_name: Fan
 
-# Username (this should match the folder name)
-authors:
-  - Yuanchao Fan
+# # Username (this should match the folder name)
+# authors:
+#   - Yuanchao Fan
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Assistant Professor of Environmental Science & Engineering, PI of i-Ecoclimatology Lab
@@ -70,7 +70,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: yuanchao.fan@sz.tsinghua.edu.cn
+    link: 'yuanchao.fan@sz.tsinghua.edu.cn'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -93,7 +93,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: yuanchao.fan@sz.tsinghua.edu.cn
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -104,4 +104,6 @@ user_groups:
   - Principal Investigator
 ---
 
-Dr. Fan joined Tsinghua SIGS in January 2023. He was formerly a research fellow at Harvard University Center for the Environment (2019-2022) and a postdocal researcher at the Norwegian Research Centre and the Bjerknes Centre for Climate Research (2016-2019). He specializes in climate change impact assessment and mitigation, applying principles of ecological climatology. His representative works include: 1. developing a human energy balance model to project the impact of extreme heat stress on human health, 2. evaluating the impacts of solar geoengineering and emissions reduction scenarios on agriculture using Earth system models, and 3. developing a CLM-Palm model to quantify the impact of rainforest to oil palm conversion on land-atmosphere carbon, water, and energy fluxes.
+Dr. Fan joined Tsinghua SIGS in January 2023. He was formerly a research fellow at Harvard University Center for the Environment (2019-2022) and a postdoctoral researcher at the Norwegian Research Centre and the Bjerknes Centre for Climate Research (2016-2019). He specializes in climate change impact assessment and mitigation, applying principles of ecological climatology. 
+
+His representative works include: 1. developing a human energy balance model to project the impact of extreme heat stress on human health, 2. evaluating the impacts of solar geoengineering and emissions reduction scenarios on agriculture using Earth system models, and 3. developing a CLM-Palm model to quantify the impact of rainforest to oil palm conversion on land-atmosphere carbon, water, and energy fluxes.
