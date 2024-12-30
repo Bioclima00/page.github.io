@@ -16,12 +16,12 @@ sections:
                   Remote sensing
                   Physically constrained artificial intelligence
 
-        align: center
+        align: left
         background:
           image:
-            filename: coders.jpg
+            filename: welcome.jpg
             filters:
-              brightness: 1
+              brightness: 0.5
           position: right
           color: '#666'
       - title: Lab Aims/Research Applications
@@ -46,7 +46,7 @@ sections:
           image:
             filename: rec.jpg
             filters:
-              brightness: 1
+              brightness: 0.3
           position: center
           color: '#333'
         link:
