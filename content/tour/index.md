@@ -48,10 +48,8 @@ sections:
           color: '#ffffff'
       - title: Recruiting
         content:
-            'The lab has a dynamic, collaborative environment with 15 researchers from four nations. 
-            
+            'The lab has a dynamic, collaborative environment with 15 researchers from four nations.
             It is seeking passionate Master's and PhD candidates with backgrounds in Ecology, Geoscience, Atmospheric Science, Physics, Mathematics, Computer Science. 
-            
             Ideal candidates will be self-motivated and eager to contribute to groundbreaking climate research'
         align: right
         background:
