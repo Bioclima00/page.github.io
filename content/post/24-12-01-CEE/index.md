@@ -1,6 +1,6 @@
 ---
 title: Deadly heat coming for healthy people — Harvard research
-date: 2024-12-12
+date: Dec 12, 2024
 ---
 
 Venturing outdoors during heatwaves may become deadly for millions of people in a world only slightly warmer than today’s, according to new research that considers the effect of solar radiation, wind and other factors on the human body.
@@ -23,4 +23,7 @@ But the hazards extend into the shade. Fan and McColl’s model projects the ris
 
 “Climate researchers often rely on heat-stress metrics that focus on weather conditions, while medical researchers study individual responses to heat. Our model bridges this gap, combining both approaches to better assess risks under any climate condition,” said Fan.
 
+
+TOPICS: Climate, Heatwaves
+https://www.nature.com/articles/s43247-024-01930-6
 <!-- Sub-Sentences. -->
