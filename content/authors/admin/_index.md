@@ -6,12 +6,12 @@ title: Yuanchao Fan
 first_name: Yuanchao
 last_name: Fan
 
-# Username (this should match the folder name)
-authors:
-  - Yuanchao Fan
+# # Username (this should match the folder name)
+# authors:
+#   - Yuanchao Fan
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Assistant Professor of Environmental Science & Engineering, PI of i-Ecoclimatology Lab
@@ -70,7 +70,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'yuanchao.fan@sz.tsinghua.edu.cn'
+    link: 'mailto:yuanchao.fan@sz.tsinghua.edu.cn'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen

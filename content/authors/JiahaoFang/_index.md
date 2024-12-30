@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'fjh23@mails.tsinghua.edu.cn'
+    link: 'mailto:fjh23@mails.tsinghua.edu.cn'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
