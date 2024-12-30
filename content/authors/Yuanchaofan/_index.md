@@ -9,6 +9,10 @@ last_name: Fan
 # Is this the primary user of the site?
 superuser: true
 
+# Username (this should match the folder name)
+authors:
+  - Yuanchao Fan
+
 # Role/position
 role: Assistant Professor of Environmental Science & Engineering,PI of i-Ecoclimatology Lab
 
