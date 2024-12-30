@@ -56,8 +56,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Dec 2, 2024'
-  time_format: '9:27 PM'
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
   address_format: en-us
 
 # Site features
@@ -92,7 +92,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: i-Ecoclimatology
+    provider: wowchemy
     algolia:
       app_id: ''
       api_key: ''
