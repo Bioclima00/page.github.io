@@ -70,7 +70,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'yuanchao.fan@sz.tsinghua.edu.cn'
+    link: yuanchao.fan@sz.tsinghua.edu.cn
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -93,7 +93,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'yuanchao.fan@sz.tsinghua.edu.cn'
+email: yuanchao.fan@sz.tsinghua.edu.cn
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
