@@ -18,18 +18,20 @@ role: Assistant Professor of Environmental Science & Engineering, PI of i-Ecocli
 
 # Organizations/Affiliations
 organizations:
-  - name: Tsinghua University
+  - name: Faculty Profile at Tsinghua SIGS
     url: 'https://www.sigs.tsinghua.edu.cn/fyc_en/main.htm'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie in the field of climate change impact and climate mitigation. Focusing on issues in the Climate-Land-Ecosystem-Society nexus, I take an interdisciplinary approach to assessing the impact of climate change and climate intervention (including solar geoengineering) on agriculture, ecosystem, and human livability, as well as the feedback of land cover change to climate, to provide decision support for addressing climate change and building a carbon neutral society.
 
 interests:
-  - Earth System Modeling
-  - Vegetation Modeling
-  - Land-Atmosphere Interaction
-  - Remote Sensing & Geographic Information System
-
+  - Energy, Water, Carbon Cycles
+  - Climate Risk and Impact Assessment 
+  - Climate Change Mitigation and Intervention
+  - Climate-Land-Ecosystem-Society Nexus
+  - Earth System Modelling 
+  - Model Development
+  - Remote Sensing
 # experience:
 #   courses:
 #     - course: Assistant Professor (Institute of Environement and Ecology)
@@ -101,4 +103,4 @@ user_groups:
   - Principal Investigator
 ---
 
-Dr. Yuanchao Fan joined Tsinghua SIGS in January 2023, after spending nearly 14 years in the USA and Europe. He specializes in climate change impact assessment and mitigation, applying principles of ecological climatology. His representative works include: 1. developing a human energy balance model to project the impact of extreme heat stress on human health, 2. evaluating the impacts of solar geoengineering and emissions reduction scenarios on agriculture using Earth system models, and 3. developing a CLM-Palm model to quantify the impact of rainforest to oil palm conversion on land-atmosphere carbon, water, and energy fluxes.
+Dr. Fan joined Tsinghua SIGS in January 2023. He was formerly a research fellow at Harvard University Center for the Environment (2019-2022) and a postdocal researcher at the Norwegian Research Centre and the Bjerknes Centre for Climate Research (2016-2019). He specializes in climate change impact assessment and mitigation, applying principles of ecological climatology. His representative works include: 1. developing a human energy balance model to project the impact of extreme heat stress on human health, 2. evaluating the impacts of solar geoengineering and emissions reduction scenarios on agriculture using Earth system models, and 3. developing a CLM-Palm model to quantify the impact of rainforest to oil palm conversion on land-atmosphere carbon, water, and energy fluxes.
