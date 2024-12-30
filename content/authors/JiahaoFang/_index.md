@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include climate change and global climate modeling.
+bio: My research interests include climate change and climate modeling.
 
 interests:
   - Climate Change
