@@ -8,7 +8,7 @@ main:
   #   url: tour
   #   weight: 10
   - name: Home
-    url: content
+    url: https://bioclima00.github.io/page.github.io/
     weight: 10
   - name: People
     url: people
