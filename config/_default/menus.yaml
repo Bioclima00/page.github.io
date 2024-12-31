@@ -8,7 +8,7 @@ main:
   #   url: tour
   #   weight: 10
   - name: Home
-    url: post
+    url: content
     weight: 10
   - name: People
     url: people
