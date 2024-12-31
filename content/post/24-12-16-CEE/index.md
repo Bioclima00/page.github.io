@@ -29,5 +29,5 @@ image:
 
 清华大学深圳国际研究生院助理教授范远超为论文第一作者及通讯作者，哈佛大学地球与行星科学系助理教授凯金·麦科尔（Kaighin McColl）为论文第二作者及共同通讯作者。研究得到深圳市科技创新委员会、鹏城孔雀计划特聘岗位科研启动基金和哈佛大学太阳能地球工程研究计划奖学金的资助。
 
-TOPICS: Climate, Heatwaves
+TOPICS: Climate Change, Heatwaves
 https://doi.org/10.1038/s43247-024-01930-6
