@@ -23,7 +23,7 @@ Previous research suggested that cooling temperatures brought on by stratospheri
 
 “Relative humidity or vapor pressure deficit has stronger control on plant water use and crop productivity than precipitation,” said Yuanchao Fan, a Fellow in the Harvard Solar Geoengineering Research Program and first author of the paper. “We found that in a cooler world under multiple scenarios, except cirrus cloud thinning, there will be higher relative humidity, which will alleviate water stress for rainfed crops. Our model shows that the change in precipitation resulting from all three solar geoengineering methods would, in fact, have very little effect on crops.”
 
-Climate risks cannot be resolved with any single tool; even if emissions were eliminated tomorrow the world’s most vulnerable will still suffer from climate change. -- DAVID KEITH PROFESSOR OF APPLIED PHYSICS
+**Climate risks cannot be resolved with any single tool; even if emissions were eliminated tomorrow the world’s most vulnerable will still suffer from climate change. -- DAVID KEITH PROFESSOR OF APPLIED PHYSICS**
 
 The researchers compared how agricultural productivity is affected by solar geoengineering and emissions reductions. The researchers found that while emissions reductions have strong cooling and humidity benefits, they may have a smaller benefit for crop yields than solar geoengineering because the reduction of CO2 fertilization reduces the productivity of most crops compared with solar geoengineering that achieves the same temperature reduction. The finding highlights the need to combine emissions reductions with other tools, including increasing the use of nitrogen fertilization and changes to land use.
 
