@@ -26,7 +26,8 @@ sections:
               brightness: 0.5
           position: right
           color: '#ffffff'
-      - title: Research Directions
+      - title: 
+      # title: Research Directions
         content:  
         # Led by Dr. Fan, the Ecoclimatology Lab (Eco Climate for short) is at the forefront of climate and ecosystem research. The lab’s mission is to 
         # - Develop cutting-edge methodologies and models to understand land-atmosphere interactions
