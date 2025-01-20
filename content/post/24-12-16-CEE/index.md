@@ -31,3 +31,4 @@ image:
 
 TOPICS: Climate Change, Heatwaves
 https://doi.org/10.1038/s43247-024-01930-6
+**Original link https://www.tsinghua.edu.cn/info/1175/115952.htm**

@@ -28,3 +28,4 @@ But the hazards extend into the shade. Fan and McColl’s model projects the ris
 
 TOPICS: Climate, Heatwaves
 https://www.nature.com/articles/s43247-024-01930-6
+**Original link https://news.harvard.edu/gazette/story/newsplus/deadly-heat-coming-for-healthy-people-harvard-research/#:~:text=The%20Harvard%20University%20researchers%20look,move%20indoors%20to%20avoid%20heat.**

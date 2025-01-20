@@ -35,3 +35,4 @@ The research was supported in part by Harvard University’s Solar Geoengineerin
 
 TOPICS: Climate, Geoengineering
 https://www.nature.com/articles/s43016-021-00278-w
+**Original link https://seas.harvard.edu/news/2021/05/model-shows-solar-geoengineering-may-be-surprisingly-effective-alleviating-impacts**
