@@ -67,7 +67,6 @@ sections:
   #   design:
   #     view: citation
   #     columns: '1'
-
   - block: markdown
     content:
       title:
