@@ -26,9 +26,7 @@ bio: My research interests include land atmosphere control process and Climate C
 
 interests:
   - Land Atmosphere Control Process
-  - Topographic Correction
-  - Climate Modeling
-  - Remote Sening and Geographic Information System
+
 
 education:
   courses:
