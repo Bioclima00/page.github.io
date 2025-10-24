@@ -26,9 +26,6 @@ bio: My research interests include land atmosphere control process and Climate C
 
 interests:
   - Land Atmosphere Control Process
-  - Topographic Correction
-  - Climate Modeling
-  - Remote Sening and Geographic Information System
 
 education:
   courses:
@@ -80,4 +77,4 @@ user_groups:
   - Support
 ---
 
-Senyao Feng is a research assistant in the i-Ecoclimatology Lab at the Tsinghua SIGS. His research focuses on the land atmosphere control process, and under the supervision of Prof. Fan Yuanchao, he is exploring the satellite topographic correction, land atmosphere control process and the impacts of climate change on ecosystem processes by using advanced modeling, satellite remote sensing and GIS technologies.
+Senyao Feng is a research assistant in the i-Ecoclimatology Lab at the Tsinghua SIGS. His research focuses on the land atmosphere control process, and under the supervision of Prof. Fan Yuanchao, he is exploring the land atmosphere control process and the impacts of climate change on ecosystem processes.
